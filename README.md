@@ -1,2 +1,2 @@
 # Hackerrank_Coding
-Solutions to HackerRank problems |  HackerRank's 10 Days of Javascript challenge
+Solutions to the practice exercises, coding challenges, and other problems on Hackerrank! www.Hackerrank.com
